@@ -1,5 +1,4 @@
-# ioddfirmware
-Upgrade a Zalman VE300 firmware to an iODD 2531 firmware.
+# Upgrade Zalman VE-300 firmware to an iodd 2531 firmware
 
 ![Zalman VE-300](http://www.zalman.com/DataFile/product/ZM-VE300_b_02_ZVx3maKa1jinLqQ6I.jpg)
 

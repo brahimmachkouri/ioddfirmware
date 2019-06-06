@@ -16,4 +16,4 @@ Here is a working solution to get the latest IODD firmware on a Zalman VE-300.
 - After finishing the update, power off the VE-300 and reconnect it. 
 - Enjoy :-)
 
-**Source** : Shoe user, in http://reboot.pro/topic/20174-how-to-flash-zm-ve400-with-original-firmware-from-iodd/
+**Source** : D5AA96 user, in http://reboot.pro/topic/20174-how-to-flash-zm-ve400-with-original-firmware-from-iodd/

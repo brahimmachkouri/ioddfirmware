@@ -4,7 +4,7 @@ Upgrade a Zalman VE300 firmware to an iODD firmware.
 Here is a working solution to get the latest IODD firmware on a Zalman VE-300.
 
 - Download and extract the file [zalman_ve300_to_iodd.7z](https://github.com/brahimmachkouri/ioddfirmware/raw/master/zalman_ve300_to_iodd.7z).
-- Run the firmware writer iODD2531_user_fw_writer_02(R1288F)_x86.EXE as administrator
+- Run the firmware writer iODD2531_user_fw_writer_02(R1288F)_x86.EXE as administrator (it's the firmware for FAT/exFAT)
 - Run the EDA tool as administrator
 - Drag-and-drop the crosshair of the EDA tool on the disabled "Update" button of the firmware writer
 - Activate the "enabled" checkbox in the EDA tool, right below the checked "visible" box. On eda  form, in the "Modify window" tab, untick the "WS_DISABLED" check box and click on "Set the window text" button : the "Update" button should now be enabled. 

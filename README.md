@@ -1,6 +1,6 @@
 # Upgrade Zalman VE-300 firmware to an iodd 2531 firmware
 
-![Zalman VE-300](http://www.zalman.com/DataFile/product/ZM-VE300_b_02_ZVx3maKa1jinLqQ6I.jpg)
+![Zalman VE-300](https://raw.githubusercontent.com/brahimmachkouri/ioddfirmware/master/LD0003234649_2.jpg)
 
 Here is a working solution to get the latest IODD firmware on a Zalman VE-300.
 
